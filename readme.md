@@ -10,7 +10,7 @@ I utilized Python, HTML, CSS, and the Django framework
 If you would like to try it out feel free to fork the project.
 
  1. Clone this Repo
- 2. ```cd``` into the directory and run ```virtualvenv``` by  enabling```virtualvenv\Scripts\activate```
+ 2. ```cd``` into the directory and run ```virtualvenv``` by  enabling```blogvenv\Scripts\activate```
  3. Then run ```python manage.py runserver```
 
 The main site can be viewed here: (http://127.0.0.1:8000/).
